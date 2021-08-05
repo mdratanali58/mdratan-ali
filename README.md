@@ -1,4 +1,4 @@
-<a href="https://www.linkedin.com/in/mdratanali/"><img align="center" src="![image](https://github.com/mdratan-ali/mdratan-ali/blob/main/ratan.jpg)"/></a>
+<a href="https://www.linkedin.com/in/mdratanali/"><img align="center" src="[image](https://github.com/mdratan-ali/mdratan-ali/blob/main/ratan.jpg)"/></a>
 
 ### Hi there 👋 I'm Md Ratan Ali
 #### I am professional web developer
