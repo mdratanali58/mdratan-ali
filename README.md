@@ -14,7 +14,7 @@ I really enjoy learning programming languages and enjoy working with programming
 I also do UI UX design work.
 
 ## MY GIT STATS
-<img src="https://github-readme-stats.vercel.app/api?username=dhanrajdc7&&show_icons=true&count_private=true&theme=radical"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=dhanrajdc7&theme=radical"/>|
+<img src="https://github-readme-stats.vercel.app/api?username=mdratan-ali&&show_icons=true&count_private=true&theme=radical"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=mdratan-ali&theme=radical"/>|
 |---|---|
 
 
