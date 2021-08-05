@@ -2,11 +2,11 @@
 
 ### Hi there 👋 I'm Md Ratan Ali
 #### I am professional web developer
-[![Linkedin Badge](https://img.shields.io/badge/-dhanrajdc7-blue?style=plastic-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dhanrajdc7/)](https://www.linkedin.com/in/mdratanali/)
-[![Twitter Badge](https://img.shields.io/badge/-codingpotter-blue?style=plastic-square&logo=twitter&logoColor=white&link=https://www.twitter.com/codingpotter)](https://twitter.com/mdratan_ali)
-[![Instagram Badge](https://img.shields.io/badge/-codingpotter-blueviolet?style=plastic-square&logo=instagram&logoColor=white&link=https://instagram.com/codingpotter/)](https://www.instagram.com/mdratanail/)
+[![Linkedin Badge](https://img.shields.io/badge/-mdratanali-blue?style=plastic-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mdratanali/)](https://www.linkedin.com/in/mdratanali/)
+[![Twitter Badge](https://img.shields.io/badge/-mdratan_ali-blue?style=plastic-square&logo=twitter&logoColor=white&link=https://www.twitter.com/mdratan_ali)](https://twitter.com/mdratan_ali)
+[![Instagram Badge](https://img.shields.io/badge/-mdratanail-blueviolet?style=plastic-square&logo=instagram&logoColor=white&link=https://instagram.com/mdratanail/)](https://www.instagram.com/mdratanail/)
 [![Youtube Badge](https://img.shields.io/badge/-codingpotter-red?style=plastic-square&logo=youtube&logoColor=white&link=https://www.youtube.com/codingpotter)](https://www.youtube.com/codingpotter)
-<a href="https://dhanrajdc7.github.io/myportfolio/"><img src="https://img.shields.io/badge/MyPortfolio-blueviolet.svg"/></a>
+<a href="https://mdratan-ail.github.io/myportfolio/"><img src="https://img.shields.io/badge/MyPortfolio-blueviolet.svg"/></a>
 <a href="https://dhanrajdc7.github.io/myresume/"><img src="https://img.shields.io/badge/MyResume-red.svg"/></a>
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=dhanrajdc7)
 
