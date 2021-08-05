@@ -16,19 +16,3 @@ I also do UI UX design work.
 ## MY GIT STATS
 <img src="https://github-readme-stats.vercel.app/api?username=mdratan-ali&&show_icons=true&count_private=true&theme=radical"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=mdratan-ali&theme=radical"/>|
 |---|---|
-
-
-# Latest YouTube Videos
-<!-- YOUTUBE:START -->
-- [Auth0 Ambassador Swags Unboxing](https://www.youtube.com/watch?v=P3HCGlqIDu8)
-- [Unboxing Swift Student Challenge Swags | 🍎  WWDC21](https://www.youtube.com/watch?v=4S8f5qaMbiY)
-- [LinkSum : Now you can share links on Instagram Stories #Shorts #YoutubeShorts #apps](https://www.youtube.com/watch?v=WwtiFQi8poc)
-- [Top 3 Icon Websites FREE #Shorts](https://www.youtube.com/watch?v=HCvaLkdUZJ0)
-- [WWDC 2021 | Swift Student Challenge Submission [Accepted]](https://www.youtube.com/watch?v=gMEdtcLDdGU)
-<!-- YOUTUBE:END -->
-
-# Latest Blog posts
-<!-- BLOG-POST-LIST:START -->
-- [Simplified: Authentication & Authorization](https://dev.to/dhanrajdc7/simplified-authentication-authorization-1nhb)
-- [🔥 Top 10 Most Useful Coding Tools & Resources Every Programmer 👨🏻‍💻 Should Know 🤔](https://dev.to/dhanrajdc7/top-10-most-useful-coding-tools-resources-every-programmer-should-know-11nc)
-<!-- BLOG-POST-LIST:END -->
