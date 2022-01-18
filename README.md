@@ -1,10 +1,10 @@
 <a href="https://www.linkedin.com/in/mdratanali/"><img align="center" src="![image](https://github.com/mdratan-ali/mdratan-ali/blob/main/ratan.jpg)"/></a>
 
 ### Hi there 👋 I'm Md Ratan Ali
-#### I am professional web developer
+#### I am professional Web Developer
 [![Linkedin Badge](https://img.shields.io/badge/-mdratanali-blue?style=plastic-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mdratanali/)](https://www.linkedin.com/in/mdratanali/)
-[![Twitter Badge](https://img.shields.io/badge/-mdratanali-blue?style=plastic-square&logo=twitter&logoColor=white&link=https://www.twitter.com/mdratan_ali)](https://twitter.com/mdratan_ali)
-[![Instagram Badge](https://img.shields.io/badge/-mdratanail-blueviolet?style=plastic-square&logo=instagram&logoColor=white&link=https://instagram.com/mdratanail/)](https://www.instagram.com/mdratanail/)
+[![Twitter Badge](https://img.shields.io/badge/-mdratanali-blue?style=plastic-square&logo=twitter&logoColor=white&link=https://twitter.com/mdrotanali)](https://twitter.com/mdrotanali)
+[![Instagram Badge](https://img.shields.io/badge/-mdratanail-blueviolet?style=plastic-square&logo=instagram&logoColor=white&link=https://www.instagram.com/mdratan_ali/)](https://www.instagram.com/mdratan_ali/)
 [![Youtube Badge](https://img.shields.io/badge/-mdratanali-red?style=plastic-square&logo=youtube&logoColor=white&link=https://www.youtube.com/mdratanali)](https://www.youtube.com/channel/UC-CsMG_-i1Oq7nnidIxct6Q)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=mdratan-ali)
 
